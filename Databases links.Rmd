@@ -1,0 +1,57 @@
+---
+title: "LNCRNA Database"
+author: "spandan"
+date: "`r Sys.Date()`"
+output: word_document
+---
+
+### lncRNA Databases:
+
+1.  RNACentral: <https://rnacentral.org/>
+
+2.  LNCpedia: <https://lncipedia.org/>
+
+3.  NonCode: <http://www.noncode.org/>
+
+4.  LNCRNAwiki:<https://ngdc.cncb.ac.cn/lncrnawiki1/index.php/Main_Page>
+
+5.  DeepBase: <https://rna.sysu.edu.cn/deepbase3/index.html>
+
+6.  lncexdb:<https://ngdc.cncb.ac.cn/lncexpdb/>
+
+7.  NPInter: <http://bigdata.ibp.ac.cn/npinter5/>
+
+8.  BioAnotation: <http://bio-annotation.cn/lncrna2target/search.jsp>
+
+9.  
+
+------------------------------------------------------------------------
+
+### Disease Databases:
+
+lncRNADisease: <https://www.cuilab.cn/lncrnadisease>
+
+------------------------------------------------------------------------
+
+### Publications to check:
+
+1.  <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4201818/>
+
+2.  <https://www.frontiersin.org/articles/10.3389/fgene.2019.01346/full>
+
+3.  <https://academic.oup.com/bib/article/18/5/789/2562763?login=false>
+
+4.  <https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002192>
+
+------------------------------------------------------------------------
+
+### Knowledgebases:
+
+1.  lncrnome: <http://genome.igib.res.in/lncRNome/>
+2.  lncrnakb: <http://psychiatry.som.jhmi.edu/lncrnakb/>
+
+------------------------------------------------------------------------
+
+### Other Lists:
+
+wikipedia list: <https://en.wikipedia.org/wiki/List_of_long_non-coding_RNA_databases>
